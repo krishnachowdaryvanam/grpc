@@ -15,7 +15,7 @@ To get a local copy of this project and run the gRPC server, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/grpc_assignment.git
+    git clone https://github.com/krishnachowdaryvanam/grpc_assignment.git
     ```
 
 2. Change into the project directory:
